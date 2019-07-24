@@ -1,5 +1,6 @@
 ---
 layout: post
+author_profile: true
 title:  "First post"
 ---
 
