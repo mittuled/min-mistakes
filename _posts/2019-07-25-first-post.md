@@ -1,7 +1,6 @@
 ---
-layout: post
+title: "Markup: Title *with* **Markdown**"
 author_profile: true
-title:  "First post"
 ---
 
 # Welcome
