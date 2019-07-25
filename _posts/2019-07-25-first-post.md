@@ -1,5 +1,5 @@
 ---
-title: "Markup: Title *with* **Markdown**"
+title: "First post"
 author_profile: true
 ---
 
